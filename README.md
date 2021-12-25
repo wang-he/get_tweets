@@ -26,5 +26,3 @@ Finally you can run the script by entering one Twitter username at the command l
 $ python get_tweets.py [twitter_username]
 ```
 
-#### More details on my blog:
-[http://www.getlaura.com/how-to-download-tweets-from-the-twitter-api/](http://www.getlaura.com/how-to-download-tweets-from-the-twitter-api/)
